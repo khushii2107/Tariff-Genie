@@ -1,0 +1,26 @@
+Plan_ID,Price,Data_per_day_GB,Calls_per_day,SMS_per_day,Validity_days,OTT_included,Speed
+P01,99,2.0,200,100,365,Disney+,4G
+P02,249,3.0,Unlimited,200,56,Netflix,5G
+P03,199,2.0,Unlimited,200,84,Disney+,4G
+P04,99,5.0,200,200,84,Disney+,4G
+P05,199,1.5,Unlimited,200,84,None,5G
+P06,149,1.5,200,100,365,Netflix,5G
+P07,299,1.0,300,100,180,Hotstar,4G
+P08,799,5.0,100,50,84,None,4G
+P09,149,2.0,200,Unlimited,365,Disney+,4G
+P10,599,3.0,Unlimited,50,28,None,4G
+P11,499,2.0,Unlimited,100,28,Hotstar,5G
+P12,249,2.0,Unlimited,Unlimited,56,Amazon Prime,5G
+P13,499,5.0,200,Unlimited,365,Amazon Prime,5G
+P14,799,2.0,Unlimited,100,28,Disney+,5G
+P15,399,5.0,100,100,28,Disney+,4G
+P16,299,2.0,300,Unlimited,56,Amazon Prime,5G
+P17,249,1.0,200,Unlimited,28,Hotstar,5G
+P18,249,5.0,300,100,180,None,4G
+P19,249,2.0,200,100,84,Hotstar,5G
+P20,249,1.0,300,100,180,Netflix,5G
+P21,399,3.0,100,Unlimited,28,None,5G
+P22,399,1.0,300,50,365,Disney+,4G
+P23,149,1.5,Unlimited,Unlimited,28,None,4G
+P24,199,5.0,Unlimited,200,180,Disney+,4G
+P25,99,2.0,300,100,365,Netflix,5G
